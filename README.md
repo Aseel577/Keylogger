@@ -1,5 +1,5 @@
 # Keylogger
-This is very simple keylogger written by C++
+This is very simple keylogger written in C++
 
 The default port number is 4444 , you can change it.
 
